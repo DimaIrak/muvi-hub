@@ -8,4 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     *, ::after, ::before {
         box-sizing: inherit;
     }
+    body {
+        background: ${({ theme }) => theme.color.lightGray};
+    }
     `;
