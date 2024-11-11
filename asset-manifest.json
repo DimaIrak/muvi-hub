@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/muvi-hub/static/css/main.f855e6bc.css",
-    "main.js": "/muvi-hub/static/js/main.9c8891cf.js",
+    "main.js": "/muvi-hub/static/js/main.8a59a46f.js",
     "static/js/453.d6f7fc1e.chunk.js": "/muvi-hub/static/js/453.d6f7fc1e.chunk.js",
-    "static/media/logo.svg": "/muvi-hub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/muvi-hub/index.html",
-    "main.f855e6bc.css.map": "/muvi-hub/static/css/main.f855e6bc.css.map",
-    "main.9c8891cf.js.map": "/muvi-hub/static/js/main.9c8891cf.js.map",
+    "main.8a59a46f.js.map": "/muvi-hub/static/js/main.8a59a46f.js.map",
     "453.d6f7fc1e.chunk.js.map": "/muvi-hub/static/js/453.d6f7fc1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9c8891cf.js"
+    "static/js/main.8a59a46f.js"
   ]
 }
