@@ -1,11 +1,11 @@
+import { GlobalStyle } from "./GlobalStyle";
 
 
 
 function App() {
   return (
-    <div>
-      Hello
-    </div>
+    <GlobalStyle />
+    
   );
 }
 
