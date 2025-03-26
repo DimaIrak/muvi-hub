@@ -5,7 +5,7 @@ const baseURL = "https://api.themoviedb.org/3";
 
 export const getMovieListFromApi = async () => {
     try {
-        const response = await axios.get(`${baseURL}/movie/popular?api_key=${apiKey}&page=1`);
+        const response = await axios.get(`${baseURL}/movie/popular?api_key=${apiKey}`);
         return response.data;
     } catch (error) {
         throw new Error(error.response?.statusText || "Błąd pobierania danych");
